@@ -1,7 +1,7 @@
 # SystemQueue
 a code that simulates a computer server
 
-- The server consists of 2 computers.
+- The server consists of n computers.
 - Tasks arrive at random intervals and attempt to use the available computer.
   - If the computer is available, the task is immediately allowed to use it.
   - Each task requires a certain amount of time (random number) and must wait for a
